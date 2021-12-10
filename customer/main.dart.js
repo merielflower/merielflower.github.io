@@ -59774,7 +59774,7 @@ if(s.length>=10)r.z=B.t3
 else r.z=B.e0},
 $S:0}
 A.F0.prototype={
-M(a,b){return new A.vv(B.EA,"Flutter Demo",A.aev(null,B.qM),null)}}
+M(a,b){return new A.vv(B.EA,"\uba54\ub9ac\uc5d8",A.aev(null,B.qM),null)}}
 A.vJ.prototype={
 am(){return new A.Lc(new A.Qj(A.r(t.N,t.Xu),"assets/sound/"),A.xd(),B.k)}}
 A.Lc.prototype={
