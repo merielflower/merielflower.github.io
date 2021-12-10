@@ -7,7 +7,6 @@ window.addEventListener("beforeinstallprompt", (e) => {
   // Stash the event so it can be triggered later.
   deferredPrompt = e;
 });
-
 function isDeferredNotNull() {
   return deferredPrompt != null;
 }
@@ -31,3 +30,4 @@ function presentAddToHome() {
     return null;
   }
 }
+
