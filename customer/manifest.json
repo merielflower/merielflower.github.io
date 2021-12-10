@@ -1,10 +1,10 @@
 {
     "name": "메리엘",
-    "short_name": "메리엘",
+    "short_name": "",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#FFFFFF",
-    "theme_color": "#0175C2",
+    "theme_color": "#FFFFFF",
     "description": "Meriel Flower Customer WebApp",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
