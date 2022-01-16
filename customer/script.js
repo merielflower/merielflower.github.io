@@ -1,5 +1,4 @@
 let deferredPrompt;
-
 // add to homescreen
 window.addEventListener("beforeinstallprompt", (e) => {
   // Prevent Chrome 67 and earlier from automatically showing the prompt
@@ -9,6 +8,11 @@ window.addEventListener("beforeinstallprompt", (e) => {
 });
 function isDeferredNotNull() {
   return deferredPrompt != null;
+}
+
+function moveShop() {
+  location.replace("http://m.merielflower.godomall.com/");
+  return null;
 }
 
 function presentAddToHome() {
